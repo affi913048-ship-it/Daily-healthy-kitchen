@@ -1,11 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { BrowserRouter, Link, Navigate, Route, Routes, useLocation, useNavigate, useParams } from 'react-router-dom';
 import { AnimatePresence, motion, useReducedMotion } from 'framer-motion';
-import {
-  ArrowLeft, ArrowRight, Check, ChevronDown, ChevronRight, Clock3, Copy, Filter, Heart, Home,
-  MapPin, Menu as MenuIcon, Minus, Navigation, Package, Plus, Search, ShoppingBag, SlidersHorizontal,
-  Sparkles, User, X, MessageCircle, AtSign, Pencil, Trash2, LockKeyhole, RefreshCw, AlertCircle
-} from 'lucide-react';
+import { ArrowLeft, ArrowRight, Check, ChevronDown, ChevronRight, Clock3, Copy, ListFilter as Filter, Heart, Dome as Home, MapPin, Menu as MenuIcon, Minus, Navigation, Package, Plus, Search, ShoppingBag, SlidersHorizontal, Sparkles, User, X, MessageCircle, AtSign, Pencil, Trash as Trash2, LockKeyhole, RefreshCw, CircleAlert as AlertCircle } from 'lucide-react';
 import { categories, categoryById, menu, menuById, type MenuItem } from './data/menu';
 import { useStore, type Address, type CartLine, type Order } from './store';
 
