@@ -1,0 +1,9 @@
+{
+  "categories": 15,
+  "menu_items": 95,
+  "unique_product_image_urls": 95,
+  "unique_descriptions": 95,
+  "uploaded_logo": true,
+  "uploaded_payment_qr": true,
+  "master_prompt_included": true
+}

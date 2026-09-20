@@ -1,0 +1,2688 @@
+========================================================
+FINAL OVERRIDE — READ THIS FIRST — THESE RULES SUPERSEDE ANY CONFLICTING LINE BELOW
+========================================================
+
+This is the FINAL correction for the Daily Healthy Kitchen website.
+
+If any older sentence anywhere in this prompt conflicts with this FINAL OVERRIDE, FOLLOW THIS FINAL OVERRIDE.
+
+========================================================
+1. MANDATORY HERO SLIDING ANIMATION
+========================================================
+
+At the START of the Home page, immediately after the header, the hero MUST be a real animated SLIDING CAROUSEL.
+
+It MUST NOT be a static banner.
+
+Required:
+- Multiple slides
+- Automatic sliding/auto-play
+- Smooth horizontal slide transitions
+- Mobile swipe
+- Slide dots/indicators
+- Optional previous/next controls
+- Smooth image zoom
+- Text reveal
+- Floating subtle leaves/food movement
+- Premium easing
+- Uploaded Daily Healthy Kitchen logo used in the hero
+
+The hero must visibly slide when the customer opens the Home page.
+
+========================================================
+2. BEST SELLERS — EVERY IMAGE MUST BE DIFFERENT
+========================================================
+
+Every Best Seller card MUST use a DIFFERENT high-quality vegetarian food image.
+
+DO NOT use the same pizza image on multiple Best Seller cards.
+
+Example:
+- Cheese Pizza → different image
+- Paneer Pizza → different image
+- Farmhouse Pizza → different image
+- Veg Cheese Sandwich → different image
+
+No duplicate Best Seller image URLs/assets.
+
+========================================================
+3. MAIN MENU IMAGE RULE — CATEGORY IMAGE ONLY
+========================================================
+
+IMPORTANT FINAL RULE:
+
+Every menu CATEGORY gets ONE large, impressive, realistic, high-quality food image beside/above its category heading.
+
+The numbered products underneath MUST NOT have individual food images.
+
+For example:
+
+FRESH PIZZA
+
+[ONE LARGE REALISTIC VEGETARIAN PIZZA IMAGE]
+
+01. Cheese Pizza — ₹130
+    Quantity: [-] 1 [+]
+    [ADD NOW]
+    [BUY NOW]
+
+02. Paneer Pizza — ₹140
+    Quantity: [-] 1 [+]
+    [ADD NOW]
+    [BUY NOW]
+
+03. Veg Pizza — ₹130
+    Quantity: [-] 1 [+]
+    [ADD NOW]
+    [BUY NOW]
+
+...continue vertically...
+
+10. Black Magic Burger Pizza — ₹370
+    Quantity: [-] 1 [+]
+    [ADD NOW]
+    [BUY NOW]
+
+THERE MUST BE NO IMAGE BESIDE THE NUMBERED ITEMS.
+
+Do NOT put the same pizza image beside all 10 pizza products.
+
+Do NOT put 10 individual pizza images beside the 10 rows.
+
+Use ONE large category image for Fresh Pizza.
+
+Apply the same rule to every other menu category:
+ONE large category image + all products vertically without individual product images.
+
+========================================================
+4. FULL LONG VERTICAL MENU — DO NOT COMPRESS
+========================================================
+
+The website is intentionally long.
+
+Every category must show ALL products, one below another.
+
+Do NOT show only 2–3 products.
+
+Do NOT replace the requested vertical list with a small card grid.
+
+For every item, show:
+
+NUMBER
+ITEM NAME
+PRICE
+QUANTITY
+ADD NOW
+BUY NOW
+
+Example:
+
+01. Cheese Pizza — ₹130
+    [-] 1 [+]   [ADD NOW]
+                 [BUY NOW]
+
+02. Paneer Pizza — ₹140
+    [-] 1 [+]   [ADD NOW]
+                 [BUY NOW]
+
+03. Veg Pizza — ₹130
+    [-] 1 [+]   [ADD NOW]
+                 [BUY NOW]
+
+Every category must follow this structure.
+
+========================================================
+5. ADD NOW + BUY NOW — BOTH ARE COMPULSORY
+========================================================
+
+Every single menu item MUST have both:
+
+[ADD NOW]
+
+and
+
+[BUY NOW]
+
+ADD NOW:
+Adds the selected quantity to the cart/order summary.
+
+BUY NOW:
+Immediately opens the checkout flow for that item and selected quantity.
+
+Both buttons must be functional.
+
+Do not create decorative/fake buttons.
+
+Quantity controls must work:
+
+[-] 1 [+]
+
+Minimum quantity = 1.
+
+========================================================
+6. FOOD IMAGE SLIDER BELOW HERO — MANDATORY
+========================================================
+
+Immediately BELOW the main hero slider, create a separate automatic FOOD IMAGE SLIDER.
+
+This slider must contain multiple different vegetarian images.
+
+Suggested slides:
+- Vegetarian Pizza
+- Paneer Sandwich
+- Vegetarian Subway
+- Paneer Wrap
+- Healthy Pasta
+- Vegetarian Momos
+- Healthy Bowl
+- Vegetarian Burger
+- Dessert
+- Coffee/Mojito
+
+Required:
+- Auto-play
+- Mobile swipe
+- Touch drag
+- Smooth transitions
+- Indicators
+- Rounded corners
+- Correct image cropping
+- Different image for each slide
+
+Do NOT reuse one image across the entire slider.
+
+========================================================
+7. IMAGE QUALITY
+========================================================
+
+Use high-quality legitimate food images from sources such as:
+- Unsplash
+- Pexels
+- Pixabay
+- Other legitimate royalty-free/high-quality sources
+
+Do NOT use:
+- Watermarked images
+- Pixelated images
+- Blurry images
+- Broken URLs
+- Unrelated images
+- Non-vegetarian images
+
+Every category image must match its category.
+
+Best Seller images must be different from one another.
+
+Hero/slider images must also be varied.
+
+========================================================
+8. 100% PURE VEGETARIAN
+========================================================
+
+DAILY HEALTHY KITCHEN is 100% PURE VEGETARIAN.
+
+Never show or use:
+- Chicken
+- Fish
+- Mutton
+- Meat
+- Egg
+- Seafood
+- Any non-vegetarian food
+
+This applies to:
+- Menu
+- Hero
+- Best Sellers
+- Food slider
+- Promotional banners
+- Background images
+- Any decorative food imagery
+
+========================================================
+9. CORRECT LOCATION — USE EXACTLY THIS
+========================================================
+
+Front of Bank of baroda, Camp Rd, above SKY Bakery House, Vardhaman Nagar, Malegaon, Maharashtra 423105
+
+Do NOT use Mumbai, Pune or any other incorrect location.
+
+Use this address in:
+- Contact section
+- Footer
+- Restaurant information
+- Checkout/location context where applicable
+
+========================================================
+10. RESTAURANT TIMING
+========================================================
+
+11:00 AM to 11:00 PM
+
+Show this timing in the Contact/About/Footer area.
+
+========================================================
+11. UPLOADED ASSETS
+========================================================
+
+Use the actual uploaded:
+1. Daily Healthy Kitchen logo
+2. Real payment QR code
+3. Reference screenshots
+
+DO NOT generate a fake QR code.
+
+DO NOT replace the uploaded logo.
+
+Use the reference screenshots as the visual/UX reference while keeping Daily Healthy Kitchen branding.
+
+========================================================
+12. SEARCH MUST REALLY WORK
+========================================================
+
+Search must search the COMPLETE menu, not only Best Sellers.
+
+Examples:
+"pizza" → pizza products
+"paneer" → paneer products
+"pasta" → pasta products
+"jain" → Jain products
+
+Search by:
+- Item name
+- Category
+- Keywords
+
+Search must update results without page reload.
+
+Category filters must also work.
+
+Search + category filtering must work together.
+
+========================================================
+13. PAYMENT — NO COD
+========================================================
+
+CASH ON DELIVERY IS COMPLETELY FORBIDDEN.
+
+Do NOT show:
+- Cash on Delivery
+- COD
+- Pay on Delivery
+- Pay Later
+
+Order flow MUST be:
+
+Select food
+↓
+Order summary
+↓
+Customer details
+↓
+Payment
+↓
+Payment reference/UTR
+↓
+Order submitted/confirmed according to payment verification
+↓
+WhatsApp order message
+
+Use the uploaded real QR code.
+
+Do not falsely claim that a static QR automatically verifies bank payment.
+
+========================================================
+14. WHATSAPP — MUST WORK CORRECTLY
+========================================================
+
+Send/generate the complete order message for:
+
++91 90829 75231
+
+The message must include:
+- Order ID
+- Customer name
+- Phone
+- Location
+- Full address
+- Landmark
+- Pincode
+- Every ordered item
+- Quantity
+- Price
+- Subtotal
+- Total
+- Payment reference/UTR
+- Payment status
+- Order status
+
+If WhatsApp Business API is not configured, use a correct WhatsApp deep link with the complete pre-filled message.
+
+Do not send to another number.
+
+========================================================
+15. EXACT BOTTOM NAVIGATION
+========================================================
+
+Exactly 3 bottom navigation options:
+
+1. HOME
+2. ORDERS
+3. ACCOUNT
+
+NO fourth option.
+
+Do not put Cart as a fourth bottom tab.
+
+Cart/order summary can open from Add Now, Buy Now or a header/cart control.
+
+========================================================
+16. ORDER PAGE
+========================================================
+
+Orders page must show actual placed orders.
+
+Show:
+- Order ID
+- Date/time
+- Items
+- Quantity
+- Total
+- Payment status
+- Order status
+- Delivery address
+
+Status can progress through:
+Payment Submitted
+Order Received
+Preparing
+Out for Delivery
+Delivered
+
+No live rider GPS tracking.
+
+========================================================
+17. ACCOUNT PAGE
+========================================================
+
+Show the name entered on the first website entry.
+
+Allow editing the name.
+
+Show useful saved customer details where appropriate.
+
+========================================================
+18. ANIMATION QUALITY
+========================================================
+
+Use polished, smooth animations:
+- Welcome screen
+- Logo entrance
+- Hero sliding carousel
+- Food slider
+- Text reveal
+- Buttons
+- Category pills
+- Best Seller cards
+- Add Now toast
+- Quantity changes
+- Checkout transitions
+- Payment transition
+- Success checkmark
+- Confetti
+- Bottom navigation active state
+- Smooth scrolling
+
+Keep performance good on Android/mobile.
+
+========================================================
+19. FINAL VISUAL TARGET
+========================================================
+
+The website must look like a premium, fresh, natural, green, healthy vegetarian restaurant ordering application.
+
+Use:
+Deep natural green
++
+Light green
++
+Cream/off-white
++
+Fresh natural accents
+
+The website should feel inspired by the uploaded reference screenshots, but must be branded completely as:
+
+DAILY HEALTHY KITCHEN
+
+========================================================
+20. FINAL QA — DO NOT FINISH UNTIL THESE ARE TRUE
+========================================================
+
+Check all of the following before declaring the project complete:
+
+✓ Welcome name screen works
+✓ Name persists
+✓ Account shows saved name
+✓ Uploaded logo is used
+✓ Uploaded QR is used
+✓ Hero is a REAL sliding carousel
+✓ Hero auto-plays
+✓ Hero supports mobile swipe
+✓ Separate food slider exists below hero
+✓ Food slider auto-plays
+✓ Food slider supports swipe
+✓ Best Seller images are ALL DIFFERENT
+✓ Every menu category has ONE large category image
+✓ No individual numbered menu item has a food image
+✓ Every item is shown vertically
+✓ Fresh Pizza contains all 10 items
+✓ Every other category contains all its items
+✓ Every item has number
+✓ Every item has name
+✓ Every item has price
+✓ Every item has quantity
+✓ Every item has ADD NOW
+✓ Every item has BUY NOW
+✓ Add Now actually adds to cart
+✓ Buy Now actually starts checkout
+✓ Search works across full menu
+✓ Category filtering works
+✓ Search + category filter work together
+✓ Jain Special is separate
+✓ Jain items have JAIN badges
+✓ No non-vegetarian imagery anywhere
+✓ Correct Malegaon address is used
+✓ Timing is 11 AM–11 PM
+✓ COD is completely absent
+✓ QR payment flow works
+✓ UTR/reference works
+✓ Order ID is generated
+✓ Order history works
+✓ Account works
+✓ WhatsApp message contains correct complete order details
+✓ WhatsApp destination is +91 90829 75231
+✓ Instagram link works
+✓ Exactly 3 bottom tabs exist
+✓ No rider GPS exists
+✓ Mobile layout has no horizontal overflow
+✓ Bottom navigation does not cover content
+✓ No broken images
+✓ No fake payment verification
+✓ No exposed secret/API credentials
+
+THIS FINAL OVERRIDE TAKES PRIORITY OVER ANY CONFLICTING IMAGE OR MENU-LAYOUT INSTRUCTION BELOW.
+
+========================================================
+
+You are an expert full-stack developer, UI/UX designer, mobile-first application designer and restaurant ordering system architect.
+
+BUILD A COMPLETE, REAL, WORKING, PRODUCTION-STYLE RESTAURANT ORDERING WEBSITE.
+
+IMPORTANT:
+This is NOT a visual mockup. Rebuild and improve the current Daily Healthy Kitchen website according to every requirement below.
+
+The website must actually work: welcome/name entry, navigation, search, filtering, category scrolling, food-image slider, menu rendering, item quantities, cart/order summary, customer details, prepaid payment flow, UTR/reference entry, order confirmation, order history, account page, WhatsApp order message generation and responsive mobile UI must all work.
+
+Use the uploaded reference screenshots as a VISUAL/UX REFERENCE. Do not copy unrelated branding from them. The final branding must be DAILY HEALTHY KITCHEN.
+
+========================================================
+RESTAURANT INFORMATION
+========================================================
+
+Restaurant Name:
+DAILY HEALTHY KITCHEN
+
+IMPORTANT:
+DAILY HEALTHY KITCHEN IS A 100% PURE VEGETARIAN RESTAURANT.
+
+There is NO NON-VEGETARIAN FOOD.
+
+DO NOT SHOW:
+- Chicken
+- Fish
+- Mutton
+- Egg
+- Seafood
+- Meat
+- Any other non-vegetarian item
+
+Do not use chicken/fish/meat/egg/non-veg food images anywhere.
+
+Even Best Sellers, hero banners, sliders and promotional sections must contain ONLY vegetarian food.
+
+WhatsApp:
++91 90829 75231
+
+Instagram:
+https://www.instagram.com/daily_healthy_kitchen?stkn=eGl5N3drbmRlaXdp
+
+========================================================
+DELIVERY / RESTAURANT LOCATION — IMPORTANT
+========================================================
+
+Use this EXACT restaurant/location information wherever address/location is required:
+
+Front of Bank of Baroda,
+Camp Rd,
+above SKY Bakery House,
+Vardhaman Nagar,
+Malegaon,
+Maharashtra 423105
+
+Do NOT use:
+- Mumbai
+- Pune
+- Any incorrect default location
+- Any placeholder restaurant location
+
+The footer, contact section, checkout location context and restaurant information must use the correct Malegaon address above.
+
+========================================================
+UPLOADED ASSETS
+========================================================
+
+I will upload these actual image files:
+
+1. DAILY HEALTHY KITCHEN LOGO
+2. PAYMENT QR CODE
+3. REFERENCE SCREENSHOT(S) showing the desired mobile website style/layout
+
+Use the uploaded Daily Healthy Kitchen logo as the actual restaurant logo.
+
+Use the uploaded QR code as the actual payment QR code.
+
+Use the uploaded reference screenshots as visual/UX/layout references.
+
+DO NOT replace the uploaded logo with an AI-generated logo.
+
+DO NOT replace the uploaded QR code with a generated/fake QR code.
+
+DO NOT alter the QR code.
+
+The uploaded reference screenshots are references only. The final website must be branded as Daily Healthy Kitchen.
+
+========================================================
+CRITICAL FOOD IMAGE REQUIREMENT — FIX THE CURRENT PROBLEM
+========================================================
+
+THIS IS EXTREMELY IMPORTANT.
+
+The current implementation incorrectly reuses the SAME pizza image for multiple different pizza products.
+
+DO NOT DO THAT.
+
+EVERY INDIVIDUAL FOOD ITEM MUST HAVE ITS OWN DISTINCT FOOD IMAGE.
+
+Example:
+
+Fresh Pizza category has 10 products.
+
+There must be:
+- 10 different pizza/product images
+- One unique image for Cheese Pizza
+- One unique image for Paneer Pizza
+- One unique image for Veg Pizza
+- One unique image for Stuffed Pizza
+- One unique image for Paneer Tikka Pizza
+- One unique image for Farmhouse Pizza
+- One unique image for Chilly Garlic Pizza
+- One unique image for Green Tikka Pizza
+- One unique image for Cheese Burger Pizza
+- One unique image for Black Magic Burger Pizza
+
+DO NOT reuse one pizza image for all 10.
+
+The same rule applies to EVERY category.
+
+If a category has 8 items, create/use 8 distinct item images.
+
+If a category has 7 items, create/use 7 distinct item images.
+
+If a category has 4 items, create/use 4 distinct item images.
+
+NO DUPLICATE FOOD IMAGE across different products unless absolutely unavoidable. Prefer a unique image for EVERY product.
+
+The visual content of each image must match the product name as closely as possible.
+
+Examples:
+
+Cheese Pizza:
+Use a cheese-focused vegetarian pizza image.
+
+Paneer Pizza:
+Use a vegetarian paneer pizza image.
+
+Paneer Tikka Pizza:
+Use a pizza visibly topped with paneer tikka-style toppings.
+
+Farmhouse Pizza:
+Use a vegetarian farmhouse/vegetable pizza.
+
+Paneer Tikka Wrap:
+Use a paneer tikka wrap.
+
+Paneer Momos:
+Use paneer/vegetarian momos.
+
+Veg Tandoori Momos:
+Use vegetarian tandoori-style momos.
+
+Veg Protein Bowl:
+Use a vegetarian protein bowl.
+
+Quinoa Bowl:
+Use a quinoa-based healthy vegetarian bowl.
+
+Classic Mojito:
+Use a classic mojito-style beverage.
+
+Watermelon Mojito:
+Use a watermelon mojito image.
+
+Chocolate Ice Cream:
+Use chocolate ice cream.
+
+Jain items:
+Use images that are visually appropriate for Jain/vegetarian preparation.
+
+========================================================
+FOOD IMAGE SOURCES
+========================================================
+
+I am NOT providing every food image.
+
+You must find suitable high-quality food images yourself.
+
+Use reliable legitimate sources such as:
+
+- Unsplash
+- Pexels
+- Pixabay
+- Other legitimate royalty-free/high-quality image sources
+
+Do not use:
+- Watermarked images
+- Pixelated images
+- Blurry images
+- Broken image URLs
+- Low-quality thumbnails
+- Obviously unrelated images
+- Non-vegetarian images
+
+Search/use images according to the EXACT food item name.
+
+IMPORTANT:
+DO NOT simply select one generic image for an entire category.
+
+EVERY PRODUCT CARD/ROW MUST HAVE ITS OWN DISTINCT IMAGE.
+
+========================================================
+CATEGORY IMAGE + ITEM IMAGES — BOTH ARE REQUIRED
+========================================================
+
+There are TWO different image requirements:
+
+A) CATEGORY HEADER IMAGE
+
+At the beginning of every menu category, show:
+
+CATEGORY TITLE
++
+ONE LARGE, PREMIUM, REALISTIC CATEGORY IMAGE
+
+Example:
+
+FRESH PIZZA
+
+[large beautiful pizza category image]
+
+Then below that:
+
+01. Cheese Pizza
+    [individual Cheese Pizza image]
+    ₹130
+    Quantity
+    BUY NOW
+
+02. Paneer Pizza
+    [individual Paneer Pizza image]
+    ₹140
+    Quantity
+    BUY NOW
+
+03. Veg Pizza
+    [individual Veg Pizza image]
+    ₹130
+    Quantity
+    BUY NOW
+
+...and so on.
+
+B) INDIVIDUAL PRODUCT IMAGES
+
+Every numbered menu item MUST have its own distinct image.
+
+The category image does NOT replace the individual item images.
+
+Do NOT only show one category image.
+
+Do NOT only show one image for the whole category.
+
+Both are required.
+
+========================================================
+MENU LAYOUT — VERY IMPORTANT
+========================================================
+
+The menu must NOT be reduced to only 2 or 3 items.
+
+The current website incorrectly shows only a few items in some categories.
+
+FIX THIS.
+
+For every category:
+
+1. Category heading
+2. Large category image
+3. Full list of ALL items in that category
+4. Each item numbered sequentially
+5. Each item has its own unique food image
+6. Item name
+7. Price
+8. Quantity control
+9. BUY NOW button
+
+On mobile, prefer a clean vertical list/card layout so the customer can clearly see:
+
+[IMAGE]
+01
+CHEESE PIZZA
+₹130
+[-] 1 [+]
+BUY NOW
+
+Then immediately below:
+
+[IMAGE]
+02
+PANEER PIZZA
+₹140
+[-] 1 [+]
+BUY NOW
+
+Then:
+
+[IMAGE]
+03
+VEG PIZZA
+₹130
+[-] 1 [+]
+BUY NOW
+
+Continue ALL THE WAY to item 10 for Fresh Pizza.
+
+Do NOT compress the 10 products into a tiny grid where the images/names/buttons become difficult to use.
+
+========================================================
+OVERALL DESIGN
+========================================================
+
+Use the uploaded reference screenshots as inspiration for the mobile-first structure.
+
+Design direction:
+
+- Premium
+- Fresh
+- Healthy
+- Natural
+- Modern
+- Clean
+- Green
+- Vegetarian
+- Food-focused
+- Friendly
+- Professional
+
+Use the Daily Healthy Kitchen logo colors as the main visual reference.
+
+Preferred palette:
+
+Deep natural green
++
+Fresh/light green
++
+Cream/off-white
++
+Natural food accents
+
+Use elegant typography for headings and highly readable typography for menu items.
+
+Do not make it look like a generic SaaS dashboard.
+
+It should look like a real premium restaurant ordering application.
+
+========================================================
+STEP 1 — FIRST WEBSITE ENTRY
+========================================================
+
+When a new customer opens the website for the first time:
+
+DO NOT immediately show Home.
+
+First show a beautiful full-screen welcome screen.
+
+Display:
+
+[DAILY HEALTHY KITCHEN LOGO]
+
+DAILY HEALTHY KITCHEN
+
+"Fresh • Healthy • Tasty"
+
+Input:
+"Enter your name"
+
+Button:
+"Continue"
+
+Animations:
+
+- Logo fade-in
+- Text reveal
+- Smooth background movement
+- Floating subtle leaf/food elements
+- Button animation
+
+The user MUST enter a name.
+
+After entering the name and pressing Continue:
+
+- Save customer name
+- Open Home
+- Do not ask for the name again on every page
+- Store the name using localStorage/session or suitable persistent client storage
+- Account page must show this name
+- Customer can edit the name from Account
+
+========================================================
+STEP 2 — TOP HEADER
+========================================================
+
+Create a beautiful sticky header.
+
+Show:
+
+Daily Healthy Kitchen logo
+Daily Healthy Kitchen name
+
+Buttons:
+
+ORDER NOW
+CONTACT / BOOK
+
+ORDER NOW:
+Scroll/navigate to the menu.
+
+CONTACT / BOOK:
+Scroll/navigate to Contact.
+
+Mobile header must remain compact, fast and easy to use.
+
+========================================================
+STEP 3 — PREMIUM ANIMATED HERO BANNER
+========================================================
+
+Immediately below the header create a large premium animated hero banner.
+
+Use:
+
+- Uploaded Daily Healthy Kitchen logo
+- High-quality UNIQUE vegetarian food imagery
+- Fresh vegetables
+- Vegetarian pizzas
+- Paneer
+- Sandwiches
+- Wraps
+- Pasta
+- Vegetarian momos
+- Healthy bowls
+- Vegetarian desserts
+- Beverages
+- Green/natural visual elements
+
+NO NON-VEGETARIAN FOOD.
+
+Hero text:
+
+"Fresh • Healthy • Tasty"
+
+"Good Food • Good Mood"
+
+"Order Your Favourite Food"
+
+Buttons:
+
+ORDER NOW
+CONTACT US
+
+Animations:
+
+- Smooth image zoom
+- Fade transitions
+- Text reveal
+- Floating leaves
+- Subtle food movement
+- Smooth carousel effects
+- Gentle parallax/scale effects where appropriate
+
+The hero must look premium, not like a static banner.
+
+========================================================
+STEP 4 — FOOD IMAGE SLIDER UNDER THE HERO
+========================================================
+
+THIS IS REQUIRED AND MUST NOT BE OMITTED.
+
+Immediately BELOW the hero banner create an automatic food-image slider/carousel.
+
+The current version missed this requirement. FIX IT.
+
+The slider must be clearly visible.
+
+Use multiple DIFFERENT high-quality vegetarian food images.
+
+Example slides:
+
+Vegetarian Pizza
+Paneer Sandwich
+Vegetarian Subway
+Paneer Wrap
+Healthy Pasta
+Vegetarian Momos
+Healthy Bowl
+Vegetarian Burger
+Dessert
+Coffee / Mojito
+
+DO NOT use the same image repeatedly.
+
+Slider requirements:
+
+- Auto-play
+- Mobile swipe
+- Touch drag
+- Smooth transitions
+- Previous/next controls where useful
+- Slide indicators/dots
+- Rounded corners
+- Proper image cropping
+- Responsive sizing
+- Pause/handle interaction gracefully
+- No watermarked images
+
+========================================================
+STEP 5 — SEARCH — MUST ACTUALLY WORK
+========================================================
+
+Below the food slider:
+
+Create a modern search bar.
+
+Placeholder:
+
+"Looking for something delicious?"
+
+Search icon.
+
+Filter icon/button.
+
+SEARCH MUST ACTUALLY WORK.
+
+The current version's search/filter behavior is not working correctly. FIX IT.
+
+Search must search the COMPLETE MENU, not just a few displayed products.
+
+Examples:
+
+Typing:
+"pizza"
+→ show ALL matching pizza products.
+
+Typing:
+"paneer"
+→ show all paneer products across categories.
+
+Typing:
+"pasta"
+→ show pasta products.
+
+Typing:
+"jain"
+→ show Jain products.
+
+Typing:
+"momos"
+→ show all momo products.
+
+Search by:
+
+- Item name
+- Category
+- Keywords/tags
+
+Search must update results instantly.
+
+If search is active:
+- Show matching products clearly
+- Keep their category information
+- Each result still has image, price, quantity and BUY NOW
+- Allow clearing search
+- Empty result state must say:
+  "No delicious match found. Try another search."
+
+Search must work on mobile.
+
+========================================================
+STEP 6 — CATEGORY FILTER
+========================================================
+
+Create horizontally scrollable category pills.
+
+Categories:
+
+All
+Fresh Pizza
+Jambo Wheat Sandwich
+Wheat Subway Sandwich
+Wrap
+Healthy Pasta
+Open Toast
+Healthy Chatak
+Nachos
+Healthy Momos
+Healthy Special
+Jain Special
+Borio Bowl
+Healthy Mojito
+Hot & Cold
+Dessert
+
+Mobile users must be able to swipe horizontally through categories.
+
+Active category must have a clear animated active state.
+
+When user taps a category:
+- Scroll/filter to the correct category
+- Show ALL products in that category
+- Do not show only 2 or 3 products
+
+========================================================
+STEP 7 — BEST SELLERS
+========================================================
+
+Create:
+
+🏆 Best Sellers
+
+Use ONLY vegetarian items from the actual Daily Healthy Kitchen menu.
+
+Do not use chicken/fish/meat/egg.
+
+Best Seller cards must have:
+- DISTINCT product image
+- Item name
+- Category
+- Price
+- Add to cart / Buy Now
+
+IMPORTANT:
+Do NOT reuse the same image for multiple Best Seller products.
+
+========================================================
+MAIN MENU
+========================================================
+
+IMPORTANT:
+
+Use the following menu EXACTLY.
+
+Do not remove items.
+
+Do not invent menu items.
+
+Do not change prices.
+
+Do not add non-vegetarian items.
+
+Every category must contain ALL its listed items.
+
+Every category must have:
+1. Large category image
+2. Full numbered item list
+3. UNIQUE individual image for EVERY item
+4. Quantity controls
+5. BUY NOW
+
+========================================================
+CATEGORY 1 — FRESH PIZZA
+========================================================
+
+Large category image:
+High-quality premium vegetarian pizza.
+
+INDIVIDUAL UNIQUE IMAGES:
+Each of the following 10 products must have its own different pizza image.
+
+1. Cheese Pizza — ₹130
+2. Paneer Pizza — ₹140
+3. Veg Pizza — ₹130
+4. Stuffed Pizza — ₹170
+5. Paneer Tikka Pizza — ₹170
+6. Farmhouse Pizza — ₹180
+7. Chilly Garlic Pizza — ₹160
+8. Green Tikka Pizza — ₹170
+9. Cheese Burger Pizza — ₹190
+10. Black Magic Burger Pizza — ₹370
+
+Each item:
+UNIQUE IMAGE
+NUMBER
+ITEM NAME
+PRICE
+QUANTITY
+BUY NOW
+
+========================================================
+CATEGORY 2 — JAMBO WHEAT SANDWICH
+========================================================
+
+Large category image:
+High-quality vegetarian wheat sandwich.
+
+Each product must have a different sandwich image.
+
+1. Veg Cheese Sandwich — ₹115
+2. Veg Tandoori Sandwich — ₹110
+3. Paneer Tikka Sandwich — ₹130
+4. Grilled Veg Sandwich — ₹120
+5. Chilly Garlic Sandwich — ₹130
+6. Cheese Club Sandwich — ₹150
+7. Paneer Club Sandwich — ₹170
+8. Healthy Sandwich — ₹240
+
+========================================================
+CATEGORY 3 — WHEAT SUBWAY SANDWICH
+========================================================
+
+Large category image:
+High-quality vegetarian wheat subway sandwich.
+
+Each product must have a different subway/sandwich image.
+
+1. Farm Fresh Subway — ₹210
+2. Paneer Tikka Subway — ₹200
+3. Paneer Peri Peri Subway — ₹210
+4. Veg Subway — ₹190
+5. Cheese Subway — ₹220
+6. Cheese Tikka Subway — ₹230
+7. Healthy Subway — ₹310
+
+========================================================
+CATEGORY 4 — WRAP
+========================================================
+
+Large category image:
+High-quality vegetarian/paneer wrap.
+
+Each product must have a different wrap image.
+
+1. Farm Fresh Wrap — ₹150
+2. Paneer Tikka Wrap — ₹160
+3. Paneer Peri Peri Wrap — ₹170
+4. Veg Hara Bhara Wrap — ₹130
+5. Cheese Wrap — ₹180
+6. Cheese Tikka Wrap — ₹200
+7. Paneer Special Wrap — ₹220
+
+========================================================
+CATEGORY 5 — HEALTHY PASTA
+========================================================
+
+Large category image:
+High-quality vegetarian pasta.
+
+Each product must have a different pasta image.
+
+1. White Sauce Pasta — ₹165
+2. Red Sauce Pasta — ₹175
+3. Pink Sauce Pasta — ₹180
+4. Cheese Pasta — ₹205
+5. Red Sauce Paneer Pasta — ₹285
+6. White Sauce Paneer Pasta — ₹300
+7. Pesto Pasta — ₹300
+
+========================================================
+CATEGORY 6 — OPEN TOAST
+========================================================
+
+Large category image:
+High-quality vegetarian toast.
+
+Each product must have a different toast image.
+
+1. Evocado Toast — ₹250
+2. Mexican Toast — ₹250
+3. Margherita Toast — ₹280
+4. Veg Cheese Toast — ₹220
+5. Farm Fresh Toast — ₹280
+6. Paneer Tikka Toast — ₹280
+7. Paneer Cheese Toast — ₹280
+8. English Toast — ₹250
+9. Large Veg Toast — ₹280
+
+========================================================
+CATEGORY 7 — HEALTHY CHATAK
+========================================================
+
+Large category image:
+High-quality vegetarian Indian chaat.
+
+Each product must have a different chaat image.
+
+1. Mix Chat — ₹180
+2. Bhel Puri — ₹180
+3. Papdi Chat — ₹180
+4. Sev Puri — ₹190
+5. Dahi Puri — ₹190
+6. Sprout Chat — ₹200
+7. Paneer Chat — ₹260
+8. Pani Puri (Special) — ₹180
+9. Paneer Sauce Pasta — ₹190
+
+========================================================
+CATEGORY 8 — NACHOS
+========================================================
+
+Large category image:
+High-quality vegetarian nachos.
+
+Each product must have a different nachos image.
+
+1. Loaded Nachos — ₹270
+2. Cheese Nachos — ₹310
+3. Red Sauce Nachos — ₹285
+4. Pizza Nachos — ₹310
+
+========================================================
+CATEGORY 9 — HEALTHY MOMOS
+========================================================
+
+Large category image:
+HIGH-QUALITY VEGETARIAN MOMOS ONLY.
+
+Each product must have a different momo image.
+
+1. Veg White Momos — ₹200
+2. Paneer Momos — ₹240
+3. Veg Tandoori Momos — ₹280
+4. Chilly Momos — ₹280
+
+========================================================
+CATEGORY 10 — HEALTHY SPECIAL
+========================================================
+
+Large category image:
+Healthy vegetarian fruit/dessert image.
+
+Each product must have a different dessert/fruit image.
+
+1. Fruit Cream — ₹210
+2. Fruit Salad with Ice Cream — ₹280
+3. Ice Cream — ₹240
+4. Chocolate Ice Cream — ₹190
+5. Ice Cream with Shake — ₹240
+
+========================================================
+CATEGORY 11 — JAIN SPECIAL
+========================================================
+
+THIS MUST BE A SEPARATE SECTION.
+
+Do NOT mix Jain items into normal categories.
+
+Heading:
+
+🌿 JAIN SPECIAL
+
+Subtitle:
+
+"Pure Jain Choices"
+
+Use a dedicated Jain category image.
+
+Each Jain product must have its own appropriate unique image.
+
+Only show:
+
+1. Jain Paneer Burger — ₹150
+2. Jain Special Burger — ₹180
+3. Jain Cheese Pizza — ₹180
+4. Jain Veg Pizza — ₹160
+5. Jain Mix Sprout Chat — ₹180
+6. Jain Paneer Chat — ₹260
+7. Jain Red Sauce Pasta — ₹190
+
+Every Jain product must display:
+
+JAIN
+
+badge.
+
+Make this section visually easy to identify.
+
+========================================================
+CATEGORY 12 — BORIO BOWL
+========================================================
+
+Large category image:
+Healthy vegetarian bowl.
+
+Each product must have a different bowl image.
+
+1. Loaded Bowl — ₹240
+2. Veg Protein Bowl — ₹280
+3. Paneer Protein Bowl — ₹320
+4. Quinoa Bowl — ₹280
+
+========================================================
+CATEGORY 13 — HEALTHY MOJITO
+========================================================
+
+Large beverage image.
+
+Each product must have a different beverage image.
+
+1. Classic Mojito — ₹180
+2. Watermelon Mojito — ₹180
+3. Green Apple Mojito — ₹200
+4. Kiwi Mojito — ₹200
+
+========================================================
+CATEGORY 14 — HOT & COLD
+========================================================
+
+Large coffee/beverage image.
+
+Each product must have a different beverage image.
+
+1. Hot Coffee — ₹50
+2. Cold Coffee — ₹100
+3. Cold Coffee with Ice Cream — ₹140
+4. Hot Chocolate — ₹100
+5. Ice Tea — ₹140
+6. Ice Tea with Ice Cream — ₹170
+
+========================================================
+CATEGORY 15 — DESSERT
+========================================================
+
+Large dessert image.
+
+Each product must have a different dessert image.
+
+1. Fruit Cream — ₹190
+2. Ice Cream — ₹140
+3. Ice Cream with Chocolate Ice Cream — ₹190
+4. Chocolate Ice Cream — ₹70
+
+========================================================
+MENU ITEM INTERACTION
+========================================================
+
+Every item must have:
+
+UNIQUE FOOD IMAGE
+Number
+Name
+Price
+Quantity control
+BUY NOW
+
+Quantity:
+
+[-] 1 [+]
+
+Minimum:
+1
+
+When quantity changes:
+
+Automatically update total.
+
+Example:
+
+Cheese Pizza
+₹130 × 3
+= ₹390
+
+Quantity must work independently for every product.
+
+Do not accidentally change the quantity of another product.
+
+========================================================
+BUY NOW FLOW
+========================================================
+
+When user clicks BUY NOW:
+
+Open order/checkout interface.
+
+Show:
+
+ORDER SUMMARY
+
+Item
+Unique product image
+Quantity
+Price
+Subtotal
+
+Customer can:
+
+- Increase quantity
+- Decrease quantity
+- Remove item
+- Add another item
+- Continue checkout
+
+The cart/order summary must preserve selected quantities.
+
+========================================================
+VERY IMPORTANT — NO CASH ON DELIVERY
+========================================================
+
+THIS RESTAURANT DOES NOT ACCEPT CASH ON DELIVERY.
+
+REMOVE CASH ON DELIVERY COMPLETELY.
+
+DO NOT SHOW:
+
+Cash on Delivery
+COD
+Pay on Delivery
+Pay Later
+
+ANYWHERE.
+
+ONLY VALID ORDER FLOW:
+
+CUSTOMER SELECTS FOOD
+↓
+ORDER SUMMARY
+↓
+CUSTOMER DETAILS
+↓
+PAYMENT
+↓
+PAYMENT CONFIRMATION / UTR SUBMISSION
+↓
+ORDER CONFIRMED / PAYMENT PENDING VERIFICATION AS CONFIGURED
+↓
+WHATSAPP ORDER MESSAGE
+
+The order MUST NOT be treated as a confirmed prepaid order before the payment step is completed.
+
+========================================================
+CUSTOMER DETAILS
+========================================================
+
+Before payment, customer must enter:
+
+Name
+Phone Number
+Location
+Full Delivery Address
+Landmark
+Pincode
+
+Name should automatically be pre-filled from the welcome-screen name.
+
+Customer can edit it.
+
+Required fields:
+
+Name
+Phone
+Location
+Full Address
+Pincode
+
+Validate all required fields.
+
+Use the correct restaurant location:
+
+Front of Bank of Baroda,
+Camp Rd,
+above SKY Bakery House,
+Vardhaman Nagar,
+Malegaon,
+Maharashtra 423105
+
+Do not replace this with Mumbai or another location.
+
+========================================================
+PAYMENT
+========================================================
+
+Payment MUST happen BEFORE ORDER CONFIRMATION.
+
+Use the uploaded REAL QR CODE.
+
+Payment screen:
+
+"SCAN & PAY"
+
+"Pay the exact amount shown below."
+
+Show:
+
+Order Total
+Uploaded QR Code
+
+Payment instructions.
+
+Customer pays using the QR.
+
+Then show:
+
+Payment Reference / UTR Number
+
+Input:
+
+"Enter payment reference number"
+
+Button:
+
+"I HAVE PAID"
+
+IMPORTANT:
+
+A static QR image alone cannot technically verify a UPI payment.
+
+Therefore do NOT falsely claim automatic bank verification.
+
+For this version:
+
+1. Customer scans uploaded QR
+2. Customer completes payment
+3. Customer enters UTR/payment reference
+4. Customer clicks I HAVE PAID
+5. Order is submitted
+6. Order status can be "Payment Submitted / Pending Verification" if automatic verification is not configured
+7. Restaurant can verify payment
+8. The UI must clearly distinguish payment submission from verified payment
+
+Structure the application so a real payment gateway such as Razorpay or another legitimate gateway can later be integrated.
+
+If a real payment gateway is configured, use proper server-side payment verification.
+
+NEVER put secret payment credentials in frontend code.
+
+========================================================
+ORDER CONFIRMATION
+========================================================
+
+After the payment submission/confirmation flow:
+
+Show:
+
+🎉
+
+CONGRATULATIONS!
+
+ORDER DONE
+
+Show:
+
+Order ID
+Customer Name
+Phone
+Items
+Quantity
+Total
+Address
+Payment Reference
+Order Status
+
+Example:
+
+Congratulations!
+Your order has been placed successfully.
+
+Order ID:
+DHK-XXXXXX
+
+Add:
+
+- Confetti animation
+- Animated checkmark
+- Smooth success animation
+
+Buttons:
+
+VIEW MY ORDER
+
+BACK TO HOME
+
+========================================================
+WHATSAPP ORDER
+========================================================
+
+After order submission, generate a complete WhatsApp order message for:
+
++91 90829 75231
+
+Message format:
+
+DAILY HEALTHY KITCHEN
+NEW ORDER
+
+Order ID:
+Customer Name:
+Phone:
+Location:
+Address:
+Landmark:
+Pincode:
+
+ORDER ITEMS:
+
+1. Cheese Pizza
+Quantity: 2
+Price: ₹130
+Subtotal: ₹260
+
+2. Paneer Tikka Wrap
+Quantity: 1
+Price: ₹160
+Subtotal: ₹160
+
+TOTAL:
+₹420
+
+PAYMENT:
+Prepaid
+
+Payment Reference:
+XXXX
+
+ORDER STATUS:
+Order Placed
+
+IMPORTANT:
+
+There is NO COD.
+
+Payment must be completed/submitted before the order is treated as a prepaid order.
+
+If WhatsApp Business API is not configured, create a WhatsApp deep link with the complete pre-filled message.
+
+If WhatsApp Business Cloud API is integrated later, keep credentials server-side using environment variables.
+
+Do not expose API secrets in frontend.
+
+========================================================
+BOTTOM NAVIGATION — EXACTLY 3 OPTIONS
+========================================================
+
+There must be EXACTLY 3 bottom navigation options.
+
+1. HOME
+2. ORDERS
+3. ACCOUNT
+
+No fourth option.
+
+Do not put Cart as a fourth bottom navigation item.
+
+Cart/order summary can open from Home using a button, drawer, modal or checkout page.
+
+Bottom navigation:
+
+🏠 Home
+📦 Orders
+👤 Account
+
+It must be:
+
+- Fixed at bottom
+- Mobile friendly
+- Rounded
+- Premium
+- Slight shadow
+- Animated active state
+
+Add enough bottom padding so menu content is never hidden behind the navigation.
+
+========================================================
+HOME
+========================================================
+
+Home contains:
+
+Header
+Hero
+Food slider
+Search
+Categories
+Best Sellers
+Full menu
+Jain Special
+About
+Contact
+Footer
+
+========================================================
+ORDERS PAGE
+========================================================
+
+The Orders page must actually work.
+
+If there are no orders:
+
+Show:
+
+"My orders"
+"No orders yet."
+"Your delicious journey starts here."
+
+If orders exist:
+
+Show every order with:
+
+Order ID
+Date/time
+Items
+Quantities
+Total
+Payment reference
+Payment status
+Order status
+
+Allow customer to open an order to view full details.
+
+Show useful statuses such as:
+
+Payment Submitted
+Payment Pending Verification
+Order Confirmed
+Preparing
+Ready
+Out for Delivery
+Delivered
+Cancelled
+
+Do NOT show a live rider GPS map.
+
+The customer should be able to understand whether the order has reached them through the order status.
+
+========================================================
+ACCOUNT PAGE
+========================================================
+
+Account page must show the name entered when the customer first opened the website.
+
+Show useful details:
+
+Name
+Saved phone number if available
+Saved delivery address if available
+Total orders
+Recent order information
+
+Allow customer to edit their name.
+
+Do not ask for the name again on every page.
+
+========================================================
+CONTACT / ABOUT / FOOTER
+========================================================
+
+At the bottom of the Home page create a premium About/Contact section.
+
+Restaurant:
+
+DAILY HEALTHY KITCHEN
+
+Mention:
+
+100% Pure Vegetarian
+Fresh • Healthy • Tasty
+
+Correct location:
+
+Front of Bank of Baroda,
+Camp Rd,
+above SKY Bakery House,
+Vardhaman Nagar,
+Malegaon,
+Maharashtra 423105
+
+WhatsApp:
+
++91 90829 75231
+
+Instagram:
+
+https://www.instagram.com/daily_healthy_kitchen?stkn=eGl5N3drbmRlaXdp
+
+Add working buttons:
+
+CONTACT ON WHATSAPP
+FOLLOW ON INSTAGRAM
+
+========================================================
+ANIMATIONS — IMPORTANT
+========================================================
+
+Use tasteful animations:
+
+Welcome screen:
+- Logo fade
+- Text reveal
+- Button animation
+
+Hero:
+- Image zoom
+- Text reveal
+- Floating leaves
+- Smooth transitions
+
+Food slider:
+- Auto-play
+- Smooth image transitions
+- Swipe
+- Indicators
+
+Category pills:
+- Animated active state
+
+Product cards:
+- Smooth hover/tap feedback
+- Image subtle zoom on interaction
+
+Quantity:
+- Smooth number transition
+
+Buy Now:
+- Button feedback
+
+Checkout:
+- Smooth page/modal transition
+
+Payment:
+- Clean transition
+
+Success:
+- Confetti
+- Animated checkmark
+
+Bottom navigation:
+- Smooth active indicator
+
+Do NOT over-animate.
+Keep animations fast, smooth and professional.
+
+========================================================
+RESPONSIVE DESIGN
+========================================================
+
+MOBILE-FIRST IS THE PRIORITY.
+
+The website must work properly on:
+
+- Android phones
+- iPhones
+- Tablets
+- Desktop browsers
+
+On mobile:
+
+- Full-width layout
+- Easy-to-tap buttons
+- Readable product names
+- Large enough food images
+- Horizontal category scrolling
+- Horizontal food slider
+- Fixed bottom navigation
+- No horizontal page overflow
+- No content hidden behind bottom navigation
+
+========================================================
+REFERENCE SCREENSHOT REQUIREMENT
+========================================================
+
+I have provided reference screenshots.
+
+Use them to understand the desired:
+
+- Mobile-first feel
+- Sticky header
+- Bottom navigation
+- Search area
+- Category pills
+- Best Seller horizontal cards
+- Green/cream visual style
+- Premium food presentation
+- Overall spacing and structure
+
+BUT:
+
+Do not copy the reference restaurant branding.
+
+Use DAILY HEALTHY KITCHEN branding.
+
+The final site must be significantly more complete than the reference because it must include the full menu, unique product images, functional checkout and payment flow.
+
+========================================================
+CRITICAL QA CHECKLIST BEFORE FINISHING
+========================================================
+
+Before declaring the website complete, TEST EVERY REQUIREMENT.
+
+1. First visit shows name-entry screen.
+2. Name is saved.
+3. Home opens after Continue.
+4. Name appears in Account.
+5. Logo is the uploaded Daily Healthy Kitchen logo.
+6. QR code is the uploaded real QR code.
+7. Hero banner exists and is animated.
+8. Food slider exists BELOW the hero.
+9. Food slider auto-plays.
+10. Food slider supports mobile swipe.
+11. Slider contains multiple different vegetarian images.
+12. Search actually works.
+13. Search finds items across the COMPLETE menu.
+14. Category filter works.
+15. Every category shows ALL its products.
+16. Fresh Pizza shows all 10 products.
+17. Every Fresh Pizza product has a DISTINCT image.
+18. Every other product also has a DISTINCT image.
+19. Every category has a large category image.
+20. Every numbered product has its own image.
+21. No category uses one repeated image for every item.
+22. No non-vegetarian image exists anywhere.
+23. No chicken image exists.
+24. No fish image exists.
+25. No meat image exists.
+26. No egg image exists.
+27. Jain Special is a separate section.
+28. Jain products have JAIN badges.
+29. Quantity controls work independently.
+30. Buy Now works.
+31. Order summary works.
+32. Remove item works.
+33. Add another item works.
+34. Customer details validation works.
+35. Correct Malegaon address is used.
+36. COD is completely absent.
+37. Payment is required before order submission.
+38. Uploaded QR code is displayed.
+39. UTR/payment reference can be entered.
+40. Payment status is clearly represented.
+41. Order ID is generated.
+42. Confirmation screen works.
+43. Confetti/check animation works.
+44. Order appears in Orders page.
+45. Account page shows customer name.
+46. Bottom navigation has EXACTLY 3 options.
+47. No Cart tab exists in bottom navigation.
+48. No rider GPS map exists.
+49. WhatsApp message is generated correctly.
+50. WhatsApp number is +91 90829 75231.
+51. Instagram link is correct.
+52. Footer location is correct.
+53. No Mumbai location appears.
+54. Mobile layout has no horizontal overflow.
+55. Menu content is not hidden behind bottom navigation.
+56. All buttons are functional.
+57. No broken images.
+58. No placeholder lorem ipsum.
+59. No fake payment verification.
+60. No exposed payment/API secrets.
+
+========================================================
+FINAL INSTRUCTION
+========================================================
+
+DO NOT give me another simplified mockup.
+
+DO NOT reduce the menu.
+
+DO NOT show only 2–3 items from a category.
+
+DO NOT reuse one image for multiple products.
+
+DO NOT skip the category-level large image.
+
+DO NOT skip the individual product images.
+
+DO NOT skip the food-image slider.
+
+DO NOT make search decorative; it must actually work.
+
+DO NOT use the wrong location.
+
+DO NOT add non-vegetarian food.
+
+DO NOT add COD.
+
+DO NOT add a fourth bottom-navigation option.
+
+BUILD THE COMPLETE WORKING WEBSITE WITH ALL OF THE ABOVE REQUIREMENTS.
+
+The most important correction from the previous version is:
+
+CATEGORY IMAGE + UNIQUE IMAGE FOR EVERY INDIVIDUAL MENU ITEM + FULL NUMBERED MENU + BUY NOW FOR EVERY ITEM.
+
+For example, Fresh Pizza must visibly contain:
+
+FRESH PIZZA
+[Large category pizza image]
+
+01. [Unique Cheese Pizza image] Cheese Pizza — ₹130 — Quantity — BUY NOW
+02. [Unique Paneer Pizza image] Paneer Pizza — ₹140 — Quantity — BUY NOW
+03. [Unique Veg Pizza image] Veg Pizza — ₹130 — Quantity — BUY NOW
+04. [Unique Stuffed Pizza image] Stuffed Pizza — ₹170 — Quantity — BUY NOW
+05. [Unique Paneer Tikka Pizza image] Paneer Tikka Pizza — ₹170 — Quantity — BUY NOW
+06. [Unique Farmhouse Pizza image] Farmhouse Pizza — ₹180 — Quantity — BUY NOW
+07. [Unique Chilly Garlic Pizza image] Chilly Garlic Pizza — ₹160 — Quantity — BUY NOW
+08. [Unique Green Tikka Pizza image] Green Tikka Pizza — ₹170 — Quantity — BUY NOW
+09. [Unique Cheese Burger Pizza image] Cheese Burger Pizza — ₹190 — Quantity — BUY NOW
+10. [Unique Black Magic Burger Pizza image] Black Magic Burger Pizza — ₹370 — Quantity — BUY NOW
+
+Repeat this same structure for EVERY category and EVERY item in the complete menu.
+
+Do not finish until the complete menu and all functional flows have been implemented and tested.
+
+
+========================================================
+========================================================
+PART 2 — ZOMATO / SWIGGY GRADE UPGRADE PACK
+(ADDITIVE ONLY — NOTHING ABOVE IS CANCELLED)
+========================================================
+========================================================
+
+READ CAREFULLY.
+
+Everything written above this line is still 100% required.
+This PART 2 does NOT delete, reduce or replace any earlier requirement.
+PART 2 only ADDS the missing layers that make the difference between
+"a normal restaurant website" and "a real Zomato / Swiggy grade food ordering app".
+
+If the earlier part of this prompt already covers something, keep it.
+If PART 2 describes it in more detail, implement the MORE DETAILED version.
+
+The single goal of PART 2:
+
+>>> The final product must feel like a real food-delivery APP running in a browser,
+>>> not like a long scrolling restaurant webpage with buttons. <<<
+
+========================================================
+A. ONE CONFLICT THAT MUST BE FIXED FIRST
+========================================================
+
+There is a contradiction earlier in this prompt:
+
+- One section says numbered menu items must NOT have individual images.
+- Other sections and the QA checklist say EVERY numbered item MUST have its own image.
+
+FINAL RESOLUTION (use this):
+
+BOTH IMAGE LAYERS ARE REQUIRED.
+
+1. Every CATEGORY has ONE large premium category banner image.
+2. Every INDIVIDUAL ITEM also has its OWN distinct thumbnail image
+   (right side of the item row, Zomato style — see section D).
+
+The item thumbnail is a compact 96x96 to 120x120 rounded thumbnail,
+NOT a huge full-width image. This satisfies both rules at once:
+the list stays clean and app-like, and every product still has a unique image.
+
+========================================================
+B. MANDATORY TECH STACK (THIS IS WHY IT LOOKS "NORMAL" RIGHT NOW)
+========================================================
+
+Do NOT build this as plain static HTML with inline styles.
+That is the number one reason the current output looks ordinary.
+
+Build it as a real front-end application:
+
+- React + Vite (TypeScript preferred)
+- Tailwind CSS for all styling (with a custom theme, not default Tailwind look)
+- Framer Motion for ALL animations and page/sheet transitions
+- lucide-react for icons (never emoji-only icons in the UI chrome)
+- Zustand (or React Context + reducer) for cart / user / order state
+- localStorage persistence layer for: user name, cart, addresses, orders
+- react-router (or equivalent) for Home / Orders / Account / Checkout routes
+- Menu data MUST live in a single structured data file: `src/data/menu.ts`
+  (typed array of categories -> items). NOT hardcoded inside JSX.
+
+DATA MODEL (mandatory shape):
+
+Category {
+  id, name, slug, emoji, bannerImage, description
+}
+
+MenuItem {
+  id,
+  categoryId,
+  serial,            // 01, 02, 03...
+  name,
+  price,
+  image,             // unique per item
+  description,       // 1-2 short appetising lines, written by you
+  tags: string[],    // e.g. ["bestseller","jain","spicy","healthy","chef-special"]
+  keywords: string[],// for search: ingredients, aliases (e.g. "paneer","cheese","cheezy")
+  isJain: boolean,
+  isBestseller: boolean,
+  prepTimeMins       // realistic, e.g. 12-25
+}
+
+Search, filters, cart, Buy Now and category scroll MUST all read from this
+single source of truth. This is what makes search "really work".
+
+========================================================
+C. DESIGN SYSTEM — DEFINE IT BEFORE CODING ANYTHING
+========================================================
+
+"Premium" is not an instruction unless it is given exact values. Use these.
+
+COLOR TOKENS (Tailwind theme extend):
+
+--dhk-green-900   #0E3B2E   (deep forest — headers, primary text on cream)
+--dhk-green-700   #14563F
+--dhk-green-500   #1E7A55   (primary brand / buttons)
+--dhk-green-300   #7FC9A3
+--dhk-green-100   #E4F4EB   (soft chips, active pill background)
+--dhk-cream       #FBF7EF   (page background — NOT pure white)
+--dhk-surface     #FFFFFF   (cards)
+--dhk-ink         #1A1D1B   (primary text)
+--dhk-ink-muted   #6B7472   (secondary text)
+--dhk-line        #ECE7DC   (hairline dividers)
+--dhk-gold        #C79A3B   (premium accent — bestseller ribbon, ratings star)
+--dhk-veg         #0F8A3D   (veg mark square + dot)
+--dhk-jain        #8B6BD9   (Jain badge — distinct so it is instantly scannable)
+--dhk-danger      #C0392B
+
+Page background is CREAM, cards are WHITE. Never a flat white page.
+
+TYPOGRAPHY (load from Google Fonts):
+
+- Display / headings: "Bricolage Grotesque" or "Clash Display" or "Fraunces"
+  (pick one, use it for hero text, section titles, prices)
+- Body / UI: "Plus Jakarta Sans" or "Inter"
+- Never use default system font stack. Never use Poppins-everything.
+
+Type scale (mobile):
+  hero title 30/34 weight 700, letter-spacing -0.02em
+  section title 20/26 weight 700
+  item name 15/20 weight 600
+  price 15/20 weight 700
+  description 12.5/17 weight 400 color ink-muted
+  meta/badges 11/14 weight 600 uppercase tracking 0.04em
+
+SPACING / SHAPE:
+  base unit 4px. Card radius 18px. Thumbnail radius 14px.
+  Button radius 12px. Pill radius 999px. Bottom sheet radius 24px top corners.
+  Page horizontal padding 16px.
+  Card shadow: 0 1px 2px rgba(16,24,20,.04), 0 8px 24px -12px rgba(16,24,20,.12)
+  NEVER use heavy grey drop shadows. Shadows must be soft and green-tinted.
+
+DIVIDERS:
+  Between items use a 1px dashed/solid hairline in --dhk-line, inset 16px.
+  This single detail is a big part of the Zomato menu feel.
+
+========================================================
+D. THE MENU ITEM ROW — EXACT ANATOMY (MOST IMPORTANT SECTION)
+========================================================
+
+The current "big image + number + name + price + two buttons stacked"
+layout is exactly what makes it look like a normal website.
+
+Replace the VISUAL LAYOUT (content requirements stay identical) with the
+Zomato/Swiggy row. Every item still shows number, name, price, quantity,
+ADD NOW and BUY NOW — just arranged like a real app:
+
+ROW LAYOUT (left column flexible, right column fixed 112px):
+
+LEFT COLUMN:
+  [VEG MARK]  (12px green square, green dot inside — mandatory on every item)
+  [BESTSELLER ribbon if isBestseller]  ★ Bestseller  (gold text, 11px)
+  [JAIN badge if isJain]               🌿 JAIN       (purple pill)
+  01 · CHEESE PIZZA          <- serial number as small muted prefix, then name
+  ₹130
+  ★ 4.3 (128)                <- ONLY if you have real data; otherwise omit ratings entirely.
+                                DO NOT invent fake ratings or fake review counts.
+  Wood-fired base, molten mozzarella, house herb oil.   <- 2 line clamp description
+  ⏱ 15 mins
+
+RIGHT COLUMN (112px wide, stacked):
+  [ unique item image, 112x112, radius 14, object-cover ]
+  Floating over the bottom of the image, overlapping by -14px:
+  [ ADD ]  button — white background, green border, green bold text,
+                    shadow, radius 10, width 92px, height 34px
+  When quantity > 0 the ADD button MORPHS IN PLACE into a stepper:
+  [ −   2   + ]  same width, green filled background, white text
+  Below the stepper: a small text link "BUY NOW" (green, 12px, semibold, underline on tap)
+
+RULES:
+- ADD → adds to cart, button animates into stepper (Framer Motion layout animation).
+- The stepper must never jump the row height. Reserve the space.
+- BUY NOW → clears nothing, but opens checkout directly with that item + quantity.
+- Tapping anywhere else on the row opens the ITEM DETAIL BOTTOM SHEET (section E).
+- Minimum tap target 44x44.
+- Row vertical padding 16px, hairline divider below every row.
+
+CATEGORY BLOCK STRUCTURE:
+
+  [ Large category banner image, full width, 16:9, radius 18, with a
+    bottom-to-top dark gradient and the category name in white display font
+    overlaid bottom-left, plus item count "10 items" ]
+  [ Category description line ]
+  [ Item rows 01..N — ALL items, nothing compressed, nothing omitted ]
+  [ 8px cream gap, then next category ]
+
+========================================================
+E. ITEM DETAIL BOTTOM SHEET (MISSING — ADD IT)
+========================================================
+
+Tapping an item row opens a bottom sheet (Framer Motion, spring, drag-to-dismiss):
+
+- Large item image at top (full width, 4:3)
+- Veg mark, Jain badge, Bestseller ribbon
+- Name (display font, 22px)
+- Price, prep time
+- Full description (3-4 appetising lines you write yourself)
+- Optional note field: "Any special request? (e.g. less spicy, no onion)"
+  -> this note MUST travel into the cart, order, and the WhatsApp message
+- Quantity stepper
+- Sticky footer inside the sheet: [ ADD ITEM — ₹260 ]
+- Backdrop blur + dim. Body scroll locked while open.
+
+========================================================
+F. STICKY SCROLL-SPY CATEGORY BAR (MISSING — ADD IT)
+========================================================
+
+This is a signature Swiggy/Zomato behaviour and it is currently absent.
+
+- The horizontal category pill strip becomes STICKY directly under the header
+  once the user scrolls past the Best Sellers section.
+- As the user scrolls the menu, the pill of the CURRENTLY VISIBLE category
+  auto-activates and auto-scrolls itself into view horizontally (scroll-spy
+  via IntersectionObserver).
+- Tapping a pill smooth-scrolls to that category with correct offset so the
+  heading is not hidden under the sticky header.
+- Active pill: filled --dhk-green-500, white text, soft shadow, layoutId
+  animated background sliding between pills.
+- Inactive pill: white background, --dhk-line border, ink-muted text.
+
+ALSO ADD: a floating "MENU" FAB at the bottom-right above the bottom nav.
+Tapping it opens a compact category index sheet listing all 15 categories
+with item counts, letting the user jump instantly. (Zomato's browse-menu button.)
+
+========================================================
+G. FLOATING CART BAR (MISSING — THIS IS THE #1 MISSING APP SIGNAL)
+========================================================
+
+Whenever the cart has at least 1 item, show a floating bar pinned just ABOVE
+the bottom navigation, full width minus 16px margin:
+
+  [ 3 ITEMS · ₹620 ]              [ VIEW CART → ]
+
+- Deep green background, white text, radius 16, strong soft shadow.
+- Slides up with a spring animation when the first item is added.
+- Slides down and hides when the cart becomes empty.
+- Tapping opens the Cart/Checkout screen.
+- It must NEVER cover menu content — add matching bottom padding to the page.
+
+Also add an ADD-TO-CART FLY ANIMATION: when ADD is tapped, a small circular
+clone of the item image animates along a curve into the floating cart bar,
+and the bar's item count bumps with a scale pulse. Keep it under 450ms.
+
+========================================================
+H. RESTAURANT HEADER CARD (MISSING — ADD IT)
+========================================================
+
+Between the food slider and the search bar, add a premium restaurant info card
+(this is what instantly reads as "Zomato"):
+
+  DAILY HEALTHY KITCHEN
+  🌿 100% Pure Vegetarian · Fresh • Healthy • Tasty
+  ⏱ 11:00 AM – 11:00 PM   ·   OPEN NOW / CLOSED  (computed live from device time)
+  📍 Vardhaman Nagar, Malegaon   ·   [ GET DIRECTIONS ]
+  [ Pure Veg ] [ Jain Available ] [ Prepaid Only ] — outlined chips
+
+- The OPEN NOW / CLOSED pill must be computed from the real current time
+  against 11:00–23:00 and shown in green or red accordingly.
+- When CLOSED: show a soft banner "We're closed right now. Opens at 11:00 AM."
+  Ordering can still be allowed but must display this notice at checkout.
+- Do NOT display a star rating unless real rating data is provided.
+  Never fabricate ratings, review counts, or "10,000+ orders" style numbers.
+
+========================================================
+I. SEARCH UX UPGRADE (CURRENT SEARCH IS TOO BASIC)
+========================================================
+
+Keep every earlier search requirement, and add:
+
+- Tapping the search bar opens a FULL-SCREEN search overlay (app behaviour).
+- Animated rotating placeholder: cycles through
+  "Search 'Paneer Tikka Pizza'", "Search 'Momos'", "Search 'Mojito'",
+  "Search 'Jain'" with a smooth vertical text swap every 2.5s.
+- Recent searches (localStorage, max 6, clearable).
+- Popular searches chips: Pizza · Paneer · Momos · Mojito · Jain · Bowl.
+- Debounce 150ms, fuzzy-tolerant matching over name + category + keywords
+  (so "panir", "chees", "mojto" still match).
+- Matched substring HIGHLIGHTED in the result rows.
+- Results grouped under their category headings.
+- Result rows use the exact same row component as the menu (with ADD/stepper).
+- Empty state: illustration + "No delicious match found. Try another search."
+  plus 4 suggested items.
+- Clear (×) button inside the field.
+
+SORT & FILTER SHEET (new, opened by the filter icon):
+  Sort by: Relevance · Price: Low to High · Price: High to Low · Bestsellers first
+  Filter: Jain Only · Bestsellers Only · Under ₹150 · ₹150–₹250 · Above ₹250
+  Active filter count shown as a badge on the filter icon.
+  "Clear all" action. Filters + search + category must all compose correctly.
+
+========================================================
+J. CART / CHECKOUT SCREEN (CURRENTLY TOO THIN — UPGRADE IT)
+========================================================
+
+The cart must be a proper screen, not a plain list:
+
+1. ITEMS BLOCK
+   - Each line: thumbnail, name, veg/Jain mark, unit price, stepper, line total
+   - Remove via stepper reaching 0, with a 4-second UNDO snackbar
+   - Special instruction note shown under the item if entered
+   - [ + Add more items ] link that returns to the menu preserving scroll position
+
+2. SAVINGS / OFFER BLOCK
+   - Coupon input + [ APPLY ] and a list of available offers as tappable cards
+   - Support at least these configurable offers in code (owner can edit in one file):
+       DHK10  — 10% off above ₹300 (max ₹60)
+       FIRST50 — ₹50 off first order
+       FREEDEL — free delivery above ₹399
+   - When applied, show a green "You saved ₹XX" strip with a subtle shimmer.
+
+3. BILL DETAILS BLOCK (mandatory, itemised — Swiggy style)
+   Item Total                 ₹620
+   Restaurant Packaging       ₹15
+   Delivery Fee               ₹30   (configurable; free above threshold)
+   GST & Charges (5%)         ₹31
+   Coupon Discount           −₹60
+   ─────────────────────────────
+   TO PAY                     ₹636   (bold, display font)
+   - All values computed live. No hardcoded totals.
+   - A one-line note: "Prices inclusive as shown. Prepaid orders only."
+
+4. DELIVERY DETAILS BLOCK
+   - Saved addresses with HOME / WORK / OTHER labels and icons
+   - [ + Add new address ] opens a sheet: Name, Phone (10-digit validated),
+     Flat/House, Area/Locality, Landmark, Pincode (6-digit validated), Label
+   - Selected address shown with a green tick and [ CHANGE ] action
+   - Addresses persist in localStorage and are reusable next order
+   - Delivery ETA line: "Arriving in 30–40 mins" (derived from max item prepTime + 15)
+
+5. STICKY CHECKOUT FOOTER
+   [ ₹636 TOTAL ]            [ PROCEED TO PAY → ]
+
+========================================================
+K. PAYMENT SCREEN UPGRADE (KEEP UPI-QR + UTR, MAKE IT PREMIUM)
+========================================================
+
+Keep every earlier payment rule (no COD, real uploaded QR, UTR, honesty about
+no automatic verification). Add:
+
+- A 3-step progress indicator at top: Cart → Payment → Confirmed
+- Amount displayed huge in display font with a copy-to-clipboard button
+- The uploaded QR in a white card with corner brackets and a subtle scan-line
+  animation sweeping over it (pure CSS, no fake verification implied)
+- [ COPY UPI AMOUNT ] and [ OPEN UPI APP ] — the second uses a `upi://pay?...`
+  deep link built from the restaurant's UPI ID if provided, otherwise hide it
+- A countdown "Complete payment within 10:00" timer (soft, non-blocking)
+- UTR input with inline validation (min 6 chars, digits/letters) and helper text
+  "You'll find this as UTR / Reference No. in your UPI app."
+- [ I HAVE PAID ] button disabled until UTR is valid
+- Clear honest status copy:
+  "Payment submitted. Our team will verify it and confirm your order shortly."
+  Never display "Payment Verified" automatically.
+
+========================================================
+L. ORDER SUCCESS + ORDER TRACKING UPGRADE
+========================================================
+
+SUCCESS SCREEN:
+- Animated SVG checkmark draw (stroke-dashoffset), then confetti burst
+- Order ID in a dashed-border ticket card with a copy button
+- ETA line, address summary, payment reference
+- [ TRACK ORDER ]  [ SEND ON WHATSAPP ]  [ BACK TO HOME ]
+
+ORDER TRACKING (Orders tab → open an order):
+Replace the plain status text with a VERTICAL ANIMATED STEPPER:
+
+  ● Payment Submitted        10:42 PM
+  │
+  ● Order Confirmed          10:45 PM
+  │
+  ◐ Preparing your food      (current — pulsing green dot + animated line fill)
+  │
+  ○ Out for Delivery
+  │
+  ○ Delivered
+
+- Completed steps green + tick, current step pulsing, future steps grey.
+- A friendly line under the current step ("Our kitchen is on it 🍳").
+- NO rider GPS map (as already instructed).
+- Order card in the list shows: thumbnail stack of item images, item count,
+  total, status pill, date/time, and a [ REORDER ] button that refills the cart
+  with the same items and quantities.
+
+========================================================
+M. OWNER / ADMIN PANEL (MISSING — WITHOUT THIS THE STATUSES ARE FAKE)
+========================================================
+
+Add a hidden owner route: `/owner` protected by a simple passcode stored in an
+environment variable (never hardcoded in the repo, never exposed in the UI).
+
+Owner can:
+- See all orders (newest first) with customer name, phone, address, items, total, UTR
+- Mark payment as Verified / Rejected
+- Advance order status through the stepper stages
+- Mark items as "Out of Stock" — out-of-stock items instantly show greyed out
+  in the customer menu with a "Currently unavailable" label and a disabled ADD
+- Toggle the restaurant Open/Closed manually (overrides the time-based state)
+- Edit prices and toggle Bestseller flags
+
+Persist this in localStorage for the demo build, but structure the code with a
+clean data layer so a real backend (Supabase / Firebase / Express + DB) can be
+dropped in later without rewriting the UI.
+
+========================================================
+N. WHATSAPP MESSAGE UPGRADE
+========================================================
+
+Keep the earlier format and number (+91 90829 75231), and additionally include:
+- Special instructions per item (if entered)
+- Applied coupon and discount amount
+- Itemised bill (packaging, delivery, GST, total)
+- Selected address label (Home/Work) and Google Maps link if coordinates exist
+- ETA
+- A clear separator layout using emoji sparingly and line breaks that survive
+  URL-encoding. Test that the deep link opens with the full message intact on
+  both Android and iOS.
+
+========================================================
+O. MOTION SPECIFICATION (EXACT VALUES — DO NOT IMPROVISE)
+========================================================
+
+- Page/route transitions: fade + 12px y-slide, 260ms, ease [0.22,1,0.36,1]
+- Bottom sheets: spring stiffness 320, damping 32, drag-to-dismiss enabled
+- Buttons: scale 0.96 on tap (whileTap), 120ms
+- Menu rows: staggered fade-up on first view, 24ms stagger, max 8 items animated
+  at once, then disable (performance)
+- Skeleton shimmer while images load: 1.4s linear infinite gradient sweep
+- Category pill active background: Framer Motion layoutId sliding pill
+- Cart badge: spring pop scale 1 → 1.25 → 1
+- Confetti: max 2 seconds, then auto-cleanup
+- Respect `prefers-reduced-motion`: disable all non-essential motion.
+- Total animation budget: nothing may block interaction. 60fps on a mid-range
+  Android phone is a hard requirement.
+
+========================================================
+P. LOADING, EMPTY AND ERROR STATES (ALL CURRENTLY MISSING)
+========================================================
+
+Every one of these must exist and look designed, not default:
+
+- App boot: branded splash with the uploaded logo + a thin green progress bar
+- Menu loading: skeleton rows (grey blocks in the exact row shape) — not a spinner
+- Image loading: blur-up placeholder, fade-in on load, `loading="lazy"`,
+  `decoding="async"`, explicit width/height to prevent layout shift
+- Broken image fallback: a branded cream tile with the DHK leaf mark — never a
+  broken-image icon
+- Empty cart: illustration + "Your cart is feeling light" + [ BROWSE MENU ]
+- Empty orders: the earlier specified copy, styled as a proper empty state
+- Network/error: "Something went wrong. Retry." with a retry button
+- Toasts: green success / red error, top-center, auto-dismiss 2.5s, stacked,
+  with an icon — never `alert()`
+
+========================================================
+Q. PERFORMANCE & IMAGE PIPELINE
+========================================================
+
+- Serve food images through Unsplash/Pexels URL parameters at the right size:
+  thumbnails ~240px wide, category banners ~800px wide, hero ~1200px wide.
+  Never load a 3000px image into a 112px thumbnail. This alone is a huge part
+  of why a site feels cheap and slow.
+- Prefer WebP/AVIF where the source supports it; provide srcset where practical.
+- Lazy-load everything below the fold; preload only the first hero slide.
+- Target: Lighthouse mobile Performance ≥ 85, Accessibility ≥ 90, CLS < 0.05.
+- No layout shift when the sticky category bar engages.
+
+========================================================
+R. APP-LIKE SHELL DETAILS (SMALL THINGS, BIG DIFFERENCE)
+========================================================
+
+- Make it an installable PWA: manifest.json with the uploaded logo as icon
+  (192/512), theme-color #0E3B2E, display "standalone", plus a subtle
+  "Add to Home Screen" prompt shown once after the second visit.
+- Respect safe areas: use `viewport-fit=cover` and
+  `env(safe-area-inset-bottom)` padding on the bottom nav and floating cart bar
+  so nothing sits under the iPhone home indicator.
+- Prevent horizontal overflow globally (`overflow-x: hidden` on the shell +
+  no fixed pixel widths wider than the viewport).
+- Disable text selection on buttons/pills; enable momentum scrolling.
+- Pull-to-refresh style bounce disabled where it breaks sticky elements.
+- Header: compact sticky, shrinks on scroll, logo + name + a cart icon with a
+  live count badge. ORDER NOW / CONTACT actions remain as specified earlier.
+- Bottom navigation stays EXACTLY 3 tabs (Home, Orders, Account) with the
+  animated active indicator, as already required. The floating cart bar is NOT
+  a fourth tab — it floats above the nav and is allowed.
+
+========================================================
+S. ACCOUNT PAGE UPGRADE
+========================================================
+
+Keep everything earlier, and add:
+- Avatar circle with the customer's first initial on a green gradient
+- Editable name and phone
+- Saved addresses list (add / edit / delete / set default)
+- Total orders and total amount spent (computed from real stored orders only)
+- Favourites: a heart icon on every item row; favourited items listed here
+- Preferences toggle: "Show Jain items first"
+- Links: Contact on WhatsApp · Follow on Instagram · Get Directions
+- About block with the correct Malegaon address and 11 AM – 11 PM timing
+- App version line at the bottom
+
+========================================================
+T. CONTENT YOU MUST WRITE (DO NOT LEAVE BLANK)
+========================================================
+
+- A 1–2 line appetising description for EVERY single menu item (all 15
+  categories). No lorem ipsum, no repeated generic sentences. Each description
+  must mention real ingredients or preparation, e.g.
+  "Hand-stretched wheat base, paneer tikka, capsicum, smoky tandoori glaze."
+- A 1-line description for every category.
+- Honest copy only: no fake ratings, no fake order counts, no fake reviews,
+  no "verified payment" claims.
+
+========================================================
+U. ADDITIONAL QA CHECKLIST — PART 2
+(IN ADDITION TO THE 60 CHECKS ABOVE, ALL OF WHICH STILL APPLY)
+========================================================
+
+61. Built with React + Tailwind + Framer Motion, not plain static HTML.
+62. Menu lives in a single typed data file and every feature reads from it.
+63. Page background is cream, cards are white, custom fonts are loaded.
+64. Every item row uses the compact Zomato-style layout (text left, thumb right).
+65. Every item shows a veg mark.
+66. Jain items show the distinct Jain badge; Jain Special section still separate.
+67. Every item has a written description — none blank, none duplicated.
+68. ADD button morphs into a working quantity stepper in place.
+69. BUY NOW works on every item and opens checkout with that item.
+70. Tapping a row opens the item detail bottom sheet.
+71. Special instruction note flows to cart, order and WhatsApp message.
+72. Category pill bar becomes sticky and scroll-spy auto-highlights correctly.
+73. Floating "MENU" browse button opens the category index sheet.
+74. Floating cart bar appears/hides correctly and never covers content.
+75. Add-to-cart fly animation plays and stays under 450ms.
+76. Restaurant info card shows a live OPEN NOW / CLOSED state from real time.
+77. No fabricated ratings, review counts or order counts anywhere.
+78. Full-screen search overlay with recent + popular searches works.
+79. Fuzzy search matches misspellings; matched text is highlighted.
+80. Sort and filter sheet works and composes with search and category.
+81. Cart shows itemised bill: item total, packaging, delivery, GST, discount.
+82. Coupon codes apply and compute correctly; savings strip appears.
+83. Address book saves, labels, edits and reuses addresses.
+84. Phone (10 digits) and pincode (6 digits) validation blocks invalid input.
+85. Payment screen shows the 3-step progress and the real uploaded QR.
+86. UTR validation gates the I HAVE PAID button.
+87. No automatic payment verification is claimed anywhere.
+88. Success screen: animated checkmark, confetti, copyable Order ID.
+89. Order tracking uses the animated vertical stepper with real timestamps.
+90. REORDER refills the cart correctly.
+91. Owner panel at /owner is passcode-protected and can verify payments,
+    advance statuses and mark items out of stock.
+92. Out-of-stock items appear disabled in the customer menu.
+93. Skeleton loaders appear while content loads — no bare spinners.
+94. Images are served at appropriate sizes; no oversized downloads.
+95. Broken images fall back to a branded tile.
+96. All empty and error states are designed, not default.
+97. Toasts replace every alert().
+98. prefers-reduced-motion is respected.
+99. PWA manifest + installable; safe-area insets handled on iPhone.
+100. No horizontal overflow at 320px, 360px, 390px, 414px and 768px widths.
+101. Lighthouse mobile: Performance ≥ 85, Accessibility ≥ 90, CLS < 0.05.
+102. Bottom navigation still has EXACTLY 3 tabs.
+103. Still 100% vegetarian everywhere; still the correct Malegaon address;
+     still no COD; still the correct WhatsApp number and Instagram link.
+
+========================================================
+FINAL INSTRUCTION FOR PART 2
+========================================================
+
+Do not deliver a simplified version of PART 2 either.
+
+If a trade-off is ever needed, the priority order is:
+
+1. Every function actually works (cart, search, checkout, orders, owner panel)
+2. The Zomato-style item row + sticky category bar + floating cart bar
+3. The design system (cream/green palette, custom fonts, soft shadows, hairlines)
+4. Motion polish
+5. Everything else
+
+Build the complete application, test every checklist item from 1 to 103,
+and only then declare it finished.

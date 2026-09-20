@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --dhk-green-900:#0E3B2E; --dhk-green-700:#14563F; --dhk-green-500:#1E7A55; --dhk-green-300:#7FC9A3;
+  --dhk-green-100:#E4F4EB; --dhk-cream:#FBF7EF; --dhk-surface:#fff; --dhk-ink:#1A1D1B;
+  --dhk-muted:#6B7472; --dhk-line:#ECE7DC; --dhk-gold:#C79A3B; --dhk-veg:#0F8A3D; --dhk-jain:#8B6BD9;
+}
+html{scroll-behavior:smooth;background:var(--dhk-cream)}
+body{margin:0;background:var(--dhk-cream);color:var(--dhk-ink);font-family:'Plus Jakarta Sans',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+button,a,input,textarea,select{font:inherit}
+button{cursor:pointer;-webkit-tap-highlight-color:transparent}
+button:disabled{cursor:not-allowed}
+::selection{background:#7FC9A3;color:#0E3B2E}
+.no-scrollbar{scrollbar-width:none;-ms-overflow-style:none}
+.no-scrollbar::-webkit-scrollbar{display:none}
+.safe-bottom{padding-bottom:env(safe-area-inset-bottom)}
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  *,*::before,*::after{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "daily-healthy-kitchen",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev":"node server/index.mjs","build":"vite build","preview":"vite preview","start":"NODE_ENV=production node server/index.mjs"},
+  "dependencies": {"@vitejs/plugin-react":"latest","express":"latest","framer-motion":"latest","lucide-react":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","zustand":"latest"},
+  "devDependencies": {"@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","autoprefixer":"latest","postcss":"latest","tailwindcss":"^3.4.17","typescript":"latest","vite":"latest"}
+}
